@@ -30,10 +30,6 @@
   *(B2C Retailer)*
 
   
-- 🏭 Data Analyst Intern at QianHai JinTeng Intelligent Mechanics
-  
-  *(B2B Manufacturer)*
-
 
 - 💡 Specializing in **Natural Language Processing (NLP), Machine Learning, Deep Learning, Data Science, Business Intelligence**
 
