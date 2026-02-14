@@ -6,7 +6,7 @@
 - 🎓 M.S. in Business Analytics @ UC Irvine
 
 
-- 📦 Data Scientist at [Swift X]([https://www.bsh-group.com/us/](https://swiftx-express.com/)
+- 📦 Data Scientist at [Swift X](https://swiftx-express.com/)
   
     Cost Control Team
   
