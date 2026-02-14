@@ -29,12 +29,17 @@
 
   *(B2C Retailer)*
 
+
+
   
 
 - 💡 Specializing in **Natural Language Processing (NLP), Machine Learning, Deep Learning, Data Science, Business Intelligence**
 
   
 - 💬 Passionate about **turning data into strategic business decisions**
+
+
+
 
   
 
