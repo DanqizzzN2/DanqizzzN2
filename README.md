@@ -1,32 +1,32 @@
 <h1 align="center">Hi 👋, I'm Danqi</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-<h3 align="center">Specializes in Demand Forecasting / BI / Predictive Modeling</h3>
+
 
 
 - 🎓 M.S. in Business Analytics @ UC Irvine
 
 
 - 📦 Data Scientist at [Swift X]([https://www.bsh-group.com/us/](https://swiftx-express.com/))
-  Cost Control Team
+    Cost Control Team
 
   
 - 🏠 Student Data Scientist at [BSH Home Appliances](https://www.bsh-group.com/us/)
   
-Demand Planning Team
+    Demand Planning Team
 
   *(B2B Manufacturer / B2C Retailer)*
 
   
 - 🚕 Data Scientist Intern at [DiDi Mobility](https://web.didiglobal.com/)
   
-Strategy Team
+    Strategy Team
 
   *(B2C Tech, China's Uber)*
 
   
 - 🚢 Data Analyst Intern at [China Duty Free Group](https://www.cdfg.com.cn/)
   
-Operation Team
+    Operation Team
 
   *(B2C Retailer)*
 
